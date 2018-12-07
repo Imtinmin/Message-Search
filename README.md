@@ -1,8 +1,9 @@
-# Simple-repository 2018-12-7
+# Simple-repository 
+## 2018-12-7
 a simple repository with Login, Register,Comment and so on
 
 #### 用了简单的semantic-ui前端框架+php
-汉化版：https://semantic-ui.qyears.com/
+semantic-ui汉化版：https://semantic-ui.qyears.com/
 
 #### 包含登录、注册、留言板、查询学生信息功能……
 

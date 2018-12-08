@@ -4,7 +4,7 @@ require_once('config.php');
 error_reporting(0);
 @$myidea = addslashes($_POST['myidea']);
 $myidea = trim($myidea);
-$myidea = htmlspecialchars($myidea);
+$myidea = htmlspecialchars($myidea);  #防XSS
 @$author = addslashes($_POST['author']);
 $author = trim($author);
 $time = date("Y-m-d");

@@ -7,6 +7,7 @@ $myidea = trim($myidea);
 $myidea = htmlspecialchars($myidea);  #防XSS
 @$author = addslashes($_POST['author']);
 $author = trim($author);
+$author = htmlspecialchars($author);
 $time = date("Y-m-d");
 $time = (string)$time;
 $time = trim($time);

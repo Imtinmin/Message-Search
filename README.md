@@ -1,6 +1,6 @@
-# Simple-repository 
+# Message-Search 
 ## 2018-12-7
-a simple repository with Login, Register,Comment and so on
+a Message-Search with Login, Register,Comment,Search and so on
 
 #### 用了简单的semantic-ui前端框架+php
 semantic-ui汉化版：https://semantic-ui.qyears.com/

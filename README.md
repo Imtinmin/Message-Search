@@ -1,6 +1,6 @@
 # Message-Search 
 ## 2018-12-7
-a Message-Search with Login, Register,Comment,Search and so on
+刚入门php写的小站
 
 #### 用了简单的semantic-ui前端框架+php
 semantic-ui汉化版：https://semantic-ui.qyears.com/
